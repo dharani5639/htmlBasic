@@ -1,0 +1,51 @@
+
+
+website develop  
+
+
+frontend - html, css, js, bootstrap, react.js
+
+backend - java, python, .net , node.js
+
+database - mysql, oracle, sql,pl/sql
+
+
+
+
+
+
+
+frontend -> display data
+
+backend -> processing data
+
+database ->storing data
+
+
+
+
+
+
+
+
+
+
+
+html,css,js,bootstrap - 
+
+
+
+google.com -> ISP(internet service provider) --> VPN(virt)  ->DNS(Domain naming system)  {name, ipaddress} -> googleserver ()
+
+browser : chrome, edge, firefox, opera, safari
+
+difference  between google(search engine) (SEO)-(google, yahoo, bing etc.,), google chrome - browser, google.com,w3schhol,hackerrank,leetcode (website)
+
+website -collection of web pages(html,css,js,bootstrap, react.js)
+
+
+Protocol : set of rules that are used when transferring data  from one place to another place 
+
+
+
+

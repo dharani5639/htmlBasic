@@ -1,0 +1,109 @@
+
+what is  website?
+
+collection/linkage web pages
+
+
+difference between amazon.com and amazon.in
+
+url : (uniform resource locator) -> protocol + domain
+
+http:// not secure website
+https:// secure website
+
+start a website -> buy domain + buy server hosting +   deploy your code 
+
+basic web development  will happen in text-editor,  VS code, notepad, notepad++,etc.,
+
+file -> open folder  -> choose your desired folder
+
+vscode -> extensions -> (live server, prettier code formatter)install
+
+difference between git and github
+
+what is git (app) ?
+
+git is a distributed version control system (maintain copy)
+
+
+search git->windows ->64bit
+
+github -> it is a  website which is used to store  projects, share your code
+
+
+
+HTML -> html stands for hyper text markup language. it is used create web pages
+
+robo -> machine ->head/hands/legs  -> dance/fight 
+
+        HTML ->  CSS ->  JS
+
+
+every website contains data or form or both
+
+1991 -> html
+1993 -> css
+1994 -> js
+
+
+-> html proceeds tag based approach. it means everything inside html must follow with tags.
+
+structure of html:
+
+<html>
+<head>
+<title> vinod </title>
+</head>
+<body>
+<p>
+    first paragraph
+</p>
+<h1>vinod1</h1>
+<h2>vinod2</h2>
+<h3>vinod4</h3>
+
+<h4>vinod4</h4>
+
+<h5>vinod4</h5>
+
+<h6>vinod4</h6>
+</body>
+</html>
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+project-> 4 members
+
+
+
+
+
+
+
